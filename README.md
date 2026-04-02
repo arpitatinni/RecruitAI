@@ -13,7 +13,7 @@ An AI-powered recruitment tool designed to automate the screening of thousands o
 
 The system converts text into high-dimensional vector embeddings using the `all-MiniLM-L6-v2` model. It then calculates the **Cosine Similarity** between the Job Description vector and each Candidate vector.
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **Language:** Python 3.10+
 - **Framework:** Flask (Backend), Bootstrap 5 (Frontend)
@@ -44,6 +44,4 @@ The system converts text into high-dimensional vector embeddings using the `all-
 
 Visit http://127.0.0.1:5000 in your browser.
 
-```
-
-```
+---

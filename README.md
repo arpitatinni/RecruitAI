@@ -21,7 +21,7 @@ The system converts text into high-dimensional vector embeddings using the `all-
 - **PDF Engine:** PyMuPDF (fitz)
 - **Data Handling:** Zipfile, Shutil
 
-## 📦 Installation & Setup
+## Installation & Setup
 
 1. **Clone the repository:**
    ```bash
